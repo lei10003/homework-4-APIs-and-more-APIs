@@ -2,4 +2,5 @@
 
 ## WeatherAPI
 The goals of this assignment:
-  -  ikd
+  -  learn how to hide API keys
+  -  use the weather api to read current and forecast data on locations like NYC and Canada
